@@ -1,0 +1,62 @@
+.icon{
+    width: 250px;
+}
+.head{
+    background-color: #FFFBF0;
+}
+.nav{
+    background-color: #FFFBF0;
+}
+ul>li{
+    font-weight: bold;
+}
+/* nav end */
+h1{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-weight: 900px;
+font-size: 70px;
+line-height: 70px
+}
+.btn{
+    background-color: #A4BC46;
+    width: 170px;
+    height: 60px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 500;
+    margin-left: 50px;
+}
+/* main */
+h2{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+}
+h4{
+    font-family: Roboto,;
+    color: #FABE4C;
+    font-weight: 700;
+    font-size: 36px;
+
+}
+.test{
+    background-color:#F1F1F1;
+    ;
+    
+    border: 5px solid white;
+    border-radius: 10px;
+}
+h5{
+    font-family: Roboto;
+    color: #363958;
+    font-weight: 700;
+    font-size: 24px;
+}
+.news{
+    height: 50px;
+    width: 150px;
+    background-color: #363958;
+    color: white;
+    font-weight: 600;
+}
